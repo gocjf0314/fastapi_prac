@@ -1,7 +1,7 @@
 # FastAPI
 - [Python Docs](https://docs.python.org/ko/3/)
 - [FastAPI Docs](https://fastapi.tiangolo.com/ko/tutorial/first-steps/)
-- [Python설치](https://www.python.org/downloads/)
+- [Python 설치](https://www.python.org/downloads/)
 
 ## Installing
 - Fast api
